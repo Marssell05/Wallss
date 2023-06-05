@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-image: url("wal.png");
+	background-repeat: repeat;}
+
+h1 {font-family:"Berlin Sans FB Demi"; font-size:40;
+	color:black 	; background-color: white;}
+
+h2 {font-family: Baskerville, "Palatino Linotype"; font-size:30;
+	color: white; background-color: gray	;}
+	
+h3 {font-family: Baskerville, "Arial"; font-size:20;
+	color: white; }
